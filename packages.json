@@ -5,7 +5,8 @@
       "name": "el Material Color Scheme",
       "releases": [
         {
-          "sublime_text": "*"
+          "sublime_text": "*",
+          "tags": true
         }
       ]
     },
@@ -14,7 +15,8 @@
       "name": "Swap Layout",
       "releases": [
         {
-          "sublime_text": "*"
+          "sublime_text": "*",
+          "tags": true
         }
       ]
     },
@@ -23,7 +25,8 @@
       "name": "el theme",
       "releases": [
         {
-          "sublime_text": "*"
+          "sublime_text": "*",
+          "tags": true
         }
       ]
     }
