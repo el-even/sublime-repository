@@ -1,0 +1,8 @@
+{
+  "repositories": [
+    "https://github.com/el-even/sublime-material-color-scheme",
+    "https://github.com/el-even/sublime-swap-layout",
+    "https://github.com/el-even/sublime-theme-el"
+  ],
+  "schema_version": "3.0.0"
+}
