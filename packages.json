@@ -1,0 +1,32 @@
+{
+  "packages": [
+    {
+      "details": "https://github.com/el-even/sublime-material-color-scheme",
+      "name": "el Material Color Scheme",
+      "releases": [
+        {
+          "sublime_text": "*"
+        }
+      ]
+    },
+    {
+      "details": "https://github.com/el-even/sublime-swap-layout",
+      "name": "Swap Layout",
+      "releases": [
+        {
+          "sublime_text": "*"
+        }
+      ]
+    },
+    {
+      "details": "https://github.com/el-even/sublime-theme-el",
+      "name": "el theme",
+      "releases": [
+        {
+          "sublime_text": "*"
+        }
+      ]
+    }
+  ],
+  "schema_version": "3.0.0"
+}
